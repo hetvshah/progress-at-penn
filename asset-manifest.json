@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/progress-at-penn/static/css/main.4315e654.chunk.css",
-    "main.js": "/progress-at-penn/static/js/main.087608b2.chunk.js",
-    "main.js.map": "/progress-at-penn/static/js/main.087608b2.chunk.js.map",
+    "main.js": "/progress-at-penn/static/js/main.f794b0d3.chunk.js",
+    "main.js.map": "/progress-at-penn/static/js/main.f794b0d3.chunk.js.map",
     "runtime-main.js": "/progress-at-penn/static/js/runtime-main.dd1c0c40.js",
     "runtime-main.js.map": "/progress-at-penn/static/js/runtime-main.dd1c0c40.js.map",
-    "static/js/2.5e813f48.chunk.js": "/progress-at-penn/static/js/2.5e813f48.chunk.js",
-    "static/js/2.5e813f48.chunk.js.map": "/progress-at-penn/static/js/2.5e813f48.chunk.js.map",
+    "static/js/2.3e19eab8.chunk.js": "/progress-at-penn/static/js/2.3e19eab8.chunk.js",
+    "static/js/2.3e19eab8.chunk.js.map": "/progress-at-penn/static/js/2.3e19eab8.chunk.js.map",
     "static/js/3.8c5db32e.chunk.js": "/progress-at-penn/static/js/3.8c5db32e.chunk.js",
     "static/js/3.8c5db32e.chunk.js.map": "/progress-at-penn/static/js/3.8c5db32e.chunk.js.map",
     "index.html": "/progress-at-penn/index.html",
     "static/css/main.4315e654.chunk.css.map": "/progress-at-penn/static/css/main.4315e654.chunk.css.map",
-    "static/js/2.5e813f48.chunk.js.LICENSE.txt": "/progress-at-penn/static/js/2.5e813f48.chunk.js.LICENSE.txt"
+    "static/js/2.3e19eab8.chunk.js.LICENSE.txt": "/progress-at-penn/static/js/2.3e19eab8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.dd1c0c40.js",
-    "static/js/2.5e813f48.chunk.js",
+    "static/js/2.3e19eab8.chunk.js",
     "static/css/main.4315e654.chunk.css",
-    "static/js/main.087608b2.chunk.js"
+    "static/js/main.f794b0d3.chunk.js"
   ]
 }
