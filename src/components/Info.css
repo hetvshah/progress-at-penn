@@ -1,0 +1,22 @@
+.info {
+  font-size: 1.5rem;
+  padding-left: 2rem;
+}
+
+.back-btn {
+  background-color: #355c7d;
+  color: white;
+  font-size: 1.3rem;
+  position: absolute;
+  left: 50%;
+  box-shadow: 2.5px 2.5px #d3d3d3;
+}
+
+.back-btn:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+}
+
+.back-btn:active {
+  -webkit-box-shadow: inset 0px 0px 5px #c1c1c1;
+}
