@@ -5,7 +5,7 @@ import Info from './components/Info';
 
 function App() {
   return (
-    <HashRouter>
+    <HashRouter basename="/">
       <Switch>
         <Route exact path="/" render={(props) => <Home {...props} />} />
         <Route exact path="/info" render={(props) => <Info {...props} />} />
