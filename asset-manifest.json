@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/progress-at-penn/static/css/main.d7866615.chunk.css",
+    "main.css": "/progress-at-penn/static/css/main.1f691ad6.chunk.css",
     "main.js": "/progress-at-penn/static/js/main.e3fa5fed.chunk.js",
     "main.js.map": "/progress-at-penn/static/js/main.e3fa5fed.chunk.js.map",
     "runtime-main.js": "/progress-at-penn/static/js/runtime-main.dd1c0c40.js",
@@ -10,13 +10,13 @@
     "static/js/3.8c5db32e.chunk.js": "/progress-at-penn/static/js/3.8c5db32e.chunk.js",
     "static/js/3.8c5db32e.chunk.js.map": "/progress-at-penn/static/js/3.8c5db32e.chunk.js.map",
     "index.html": "/progress-at-penn/index.html",
-    "static/css/main.d7866615.chunk.css.map": "/progress-at-penn/static/css/main.d7866615.chunk.css.map",
+    "static/css/main.1f691ad6.chunk.css.map": "/progress-at-penn/static/css/main.1f691ad6.chunk.css.map",
     "static/js/2.e1711012.chunk.js.LICENSE.txt": "/progress-at-penn/static/js/2.e1711012.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.dd1c0c40.js",
     "static/js/2.e1711012.chunk.js",
-    "static/css/main.d7866615.chunk.css",
+    "static/css/main.1f691ad6.chunk.css",
     "static/js/main.e3fa5fed.chunk.js"
   ]
 }
