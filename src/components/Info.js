@@ -27,7 +27,7 @@ const Info = () => {
           </a>
         </p>
         <button
-          onClick={() => (window.location.href = '/')}
+          onClick={() => (window.location.href = '/progress-at-penn')}
           className="back-btn"
         >
           back
