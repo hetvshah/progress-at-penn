@@ -8,11 +8,15 @@ const graduation = new Date(2024, 4, 20);
 const started = new Date(2020, 8, 1);
 
 const days = Math.ceil(
-  (graduation.getTime() - today.getTime()) / (1000 * 3600 * 24)
+  (graduation.getTime() - started.getTime()) / (1000 * 3600 * 24)
 );
 
 const completed = Math.ceil(
   (today.getTime() - started.getTime()) / (1000 * 3600 * 24)
+);
+
+const gradTime = Math.ceil(
+  (graduation.getTime() - today.getTime()) / (1000 * 3600 * 24)
 );
 
 const Home = () => {
@@ -34,7 +38,7 @@ const Home = () => {
             paddingTop: '1rem',
           }}
         >
-          {days} days till graduation!
+          {gradTime} days till graduation!
         </p>
 
         <ProgressBar
