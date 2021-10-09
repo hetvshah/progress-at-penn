@@ -8,10 +8,10 @@ const Info = () => {
       <div className="content">
         <h1>Information</h1>
         <p className="info">
-          I am a rising sophomore at the University of Pennsylvania. I thought
-          it would be cool to create a visual representation of how much
-          progress I've made, counting down the days till graduation. This is
-          built on the following facts:
+          I am a sophomore at the University of Pennsylvania. I thought it would
+          be cool to create a visual representation of how much progress I've
+          made, counting down the days till graduation. This is built on the
+          following facts:
           <ul>
             <li>start day: Septemeber 1st, 2020</li>
             <li>grad day: May 20th, 2024</li>
